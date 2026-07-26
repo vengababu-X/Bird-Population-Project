@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 🦅 Bird Population Monitoring System
@@ -36,7 +36,7 @@ The **Bird Population Monitoring System** is an automated application designed t
 * **Computer Vision:** OpenCV
 * **Tracking & Utilities:** Supervision
 
----
+
 
 ## 📂 Project Structure
 
